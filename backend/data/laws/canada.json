@@ -1,0 +1,810 @@
+[
+  {
+    "title": "Canadian Immigration - Study Permit Work Authorization",
+    "section": "IRPR Section 186(f)",
+    "content": "International students holding a valid study permit in Canada are authorized to work up to 20 hours per week during regular academic sessions and full-time during scheduled breaks such as summer vacation, winter holidays, and spring break. To be eligible for this off-campus work authorization, students must be enrolled full-time at a designated learning institution. No separate work permit is required for this type of employment. Students must maintain full-time enrollment status to continue working. Working more than 20 hours per week during academic sessions is a violation and can result in loss of student status.",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work.html",
+    "country": "canada",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canadian Immigration - Post-Graduation Work Permit Eligibility",
+    "section": "IRPR Section 205(c)",
+    "content": "Graduates from eligible Canadian designated learning institutions may apply for a Post-Graduation Work Permit. The duration of the work permit depends on the length of the study program completed. Programs lasting less than 8 months do not qualify for a PGWP. Study programs between 8 months and 2 years receive a PGWP equal to the length of the program. Programs of 2 years or longer receive a 3-year PGWP. Applicants must apply within 180 days of receiving written confirmation of program completion. The PGWP is a one-time permit and cannot be renewed or extended.",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation.html",
+    "country": "canada",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canadian Labor Standards - Federal Minimum Wage",
+    "section": "Canada Labour Code Part III",
+    "content": "As of April 2024, the federal minimum wage in Canada is $17.30 per hour. This rate applies to employees working in federally regulated industries including banking, postal services, interprovincial transportation, telecommunications, and federal crown corporations. Provincial and territorial minimum wages vary across Canada. When federal and provincial minimum wages differ, employers must pay whichever rate is higher. The federal minimum wage is adjusted annually based on inflation rates to maintain purchasing power for workers.",
+    "source_url": "https://www.canada.ca/en/employment-social-development/services/labour-standards/reports/minimum-wage.html",
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-04"
+  },
+  {
+    "title": "Canadian Consumer Protection - Warranty and Return Rights",
+    "section": "Consumer Protection Act Section 9",
+    "content": "Canadian consumers are protected by implied warranty provisions under provincial and federal consumer protection laws. All products sold must be of acceptable quality, reasonably fit for their intended purpose, and match the description provided by the seller. If a product is defective or fails to meet these standards, consumers can request a repair, replacement, or full refund within a reasonable timeframe. Extended warranties are optional purchases and sellers must clearly explain warranty terms before purchase. Consumers cannot be forced to waive their statutory warranty rights.",
+    "source_url": "https://www.canada.ca/en/services/consumer-affairs.html",
+    "country": "canada",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canadian Labor Standards - Vacation and Leave Entitlements",
+    "section": "Canada Labour Code Section 184",
+    "content": "Employees under federal jurisdiction are entitled to a minimum of two weeks of paid vacation after completing one year of employment. After six consecutive years with the same employer, this increases to three weeks of paid vacation annually. Vacation pay must be calculated as at least 4 percent of gross wages for employees with less than six years of service, and 6 percent for those with six or more years. Employers cannot substitute vacation time with additional pay unless the employee requests it in writing and the employment relationship is ending.",
+    "source_url": "https://www.canada.ca/en/employment-social-development/services/labour-standards.html",
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+   {
+    "title": "Canada Labour Code – Medical Leave of Absence",
+    "section": "Division XIII – Medical Leave (s.239-1)",
+    "content": "Under the Canada Labour Code employees who are federally regulated are entitled to up to 27 weeks of medical leave of absence for personal illness, injury, organ or tissue donation, or medical appointments. After 30 days of continuous employment, employees earn three paid medical leave days; thereafter, one paid day per month up to a maximum of 10 paid medical leave days per year. During medical leave the employee is protected from dismissal or discipline. ",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/l-2/page-32.html#h-2",  
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Labour Code – Annual Vacation Entitlement",
+    "section": "Section 184",
+    "content": "Employees under federally regulated employment are entitled to a minimum of two weeks' vacation after one year of employment, three weeks after five consecutive years with the same employer, and four weeks after ten consecutive years. Vacation pay must be at least 4% of wages for those eligible for two weeks, 6% for three weeks, and 8% for four weeks. ",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/l-2/page-26.html",  
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Immigration Act – Work and Study Authorization",
+    "section": "Immigration & Refugee Protection Act s.30",
+    "content": "Under the Immigration and Refugee Protection Act a foreign national may not work or study in Canada unless authorized under the Act. Officers may authorize work or study if conditions in the regulations (IRPR) are met. ",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/section-30.html",
+    "country": "canada",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Labour Code – Flexible Work Arrangements Request",
+    "section": "Division I.1 (s.177.1)",
+    "content": "An employee who has completed six consecutive months of continuous employment with a federally regulated employer may request changes to the number of hours of work, work schedule or location of work. The employer must respond in writing within 30 days. If the employer refuses, reasons must be provided. ",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/l-2/page-25.html",
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Labour Code – Holiday Pay for Federally Regulated Employees",
+    "section": "General Holidays – Part III",
+    "content": "Employees under federal jurisdiction are entitled to paid general holidays including New Year’s Day, Good Friday, Victoria Day, Canada Day, Labour Day, National Day for Truth and Reconciliation, Thanksgiving Day, Remembrance Day, Christmas Day and Boxing Day. If the holiday falls on a non-working day, the employee is entitled to a day off with pay on the scheduled work day before or after. If they work on a general holiday they must be paid at least 1.5 times their regular rate plus holiday pay. ",
+    "source_url": "https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards/vacations-holidays.html",
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-01"
+  }
+  ,
+  {
+    "title": "Canadian Immigration - Study Permit Work Authorization",
+    "section": "IRPR paragraph 186(f)",
+    "content": "Full-time international students with a valid study permit may be authorized to work on-campus or off-campus without a separate work permit where the conditions in paragraph 186(f), (v) or (w) of the Immigration and Refugee Protection Regulations are met; limitation rules (e.g., maximum hours during academic sessions) and eligibility criteria apply as set out in the Regulations and IRCC guidance.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/regulations/sor-2002-227/section-186.html",
+    "country": "canada",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canadian Immigration - Post-Graduation Work Permit (PGWP) Duration",
+    "section": "IRPR / IRCC policy (post-graduation work permit guidance)",
+    "content": "Graduates of eligible designated learning institutions may apply for a Post-Graduation Work Permit; PGWP length depends on program length: programs under 8 months are ineligible; programs 8 months–2 years may receive a PGWP equal to program length; programs 2 years or longer may receive up to a 3-year PGWP. Applicants generally must apply within specified timelines after program completion.",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation.html",
+    "country": "canada",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Labour Code — Federal Minimum Wage (federally regulated employees)",
+    "section": "Canada Labour Code / ESDC announcement",
+    "content": "The federal minimum wage for employees under federal jurisdiction is set and adjusted by the Government of Canada; effective April 1, 2024 the federal rate was $17.30/hr (adjusted annually based on CPI); federally regulated employers must pay at least the federal minimum wage where it applies (provincial/territorial minimum wage applies to provincially regulated employment).",
+    "source_url": "https://www.canada.ca/en/employment-social-development/news/2024/03/federal-minimum-wage-rising-to-1730-per-hour-on-april-1.html",
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-04"
+  },
+  {
+    "title": "Competition Act — False or Misleading Representations",
+    "section": "Section 52 (criminal) and related civil provisions",
+    "content": "The Competition Act prohibits knowingly or recklessly making false or misleading representations to the public for the purpose of promoting any business interest, product or service; the Act also contains civil provisions (e.g., section 74.01) for false or misleading advertising and rules on practices such as drip pricing and deceptive marketing.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/c-34/section-52.html",
+    "country": "canada",
+    "category": "consumer",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Labour Code — Vacation and Leave Entitlements (federally regulated)",
+    "section": "Section 184",
+    "content": "Federally regulated employees are entitled to minimum paid vacation and vacation pay: at least two weeks' vacation after one year of employment, rising to three (and in some cases four) weeks after specified years of service; vacation pay percentages are prescribed (e.g., 4% for two-week entitlement, 6% for three-week entitlement).",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/l-2/page-26.html",
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Labour Code — Medical Leave of Absence (Division XIII)",
+    "section": "Division XIII — s.239 (medical leave)",
+    "content": "Under Division XIII federally regulated employees are entitled to medical leave of absence (up to 27 weeks for personal illness/injury, organ donation, medical appointments or quarantine) and limited paid medical leave days after the qualifying employment period; protections against dismissal for taking medical leave apply as per the Code.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/L-2/section-239.1.html",
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Labour Code — Flexible Work Arrangements Request",
+    "section": "Division I.1 (s.177.1)",
+    "content": "Employees with at least six consecutive months of service with a federally regulated employer may request changes to hours, schedule or location of work; employers must respond in writing within prescribed timelines and provide reasons if refusing.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/l-2/page-25.html",
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Labour Code — General Holidays / Holiday Pay (federal)",
+    "section": "Part III — General holidays provisions",
+    "content": "Federally regulated employees are entitled to paid general holidays (e.g., New Year's Day, Canada Day, Labour Day, National Day for Truth and Reconciliation, Remembrance Day, Christmas Day); if the holiday falls on a non-working day, employees may be entitled to a day off with pay on a scheduled work day before or after the holiday, and special pay rules apply when employees work on a general holiday.",
+    "source_url": "https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards/vacations-holidays.html",
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Immigration and Refugee Protection Act — Authorization to Work or Study",
+    "section": "IRPA s.30",
+    "content": "Section 30 of the Immigration and Refugee Protection Act empowers officers to authorize a foreign national to work or study in Canada when the person meets the conditions set out in the Regulations; unauthorized work/study can lead to loss of status or removal proceedings.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/section-30.html",
+    "country": "canada",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Labour Code — Travel / Displacement (work-integrated learning rules)",
+    "section": "Standards for Work-Integrated Learning Activities Regulations (related provisions)",
+    "content": "Regulations under the Canada Labour Code set standards for work-integrated learning activities (co-op placements, internships) and the conditions under which students may undertake work placements; employers and institutions must follow prescribed conditions and documentation requirements.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2020-145/",
+    "country": "canada",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Personal Information Protection and Electronic Documents Act (PIPEDA) — Limiting Use / Disclosure",
+    "section": "PIPEDA principles (e.g., Principle 5 — Limiting Use, Disclosure and Retention)",
+    "content": "PIPEDA requires organizations subject to the Act to collect, use and disclose personal information only for purposes a reasonable person would consider appropriate, to retain information only as long as necessary, and to obtain meaningful consent except where inappropriate or authorized by law; organizations must implement reasonable safeguards and provide individual access/recourse.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html",
+    "country": "canada",
+    "category": "privacy",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Criminal Code — Fraud by Deceit",
+    "section": "Section 380",
+    "content": "Section 380 defines and criminalizes fraud: anyone who, by deceit, falsehood or other fraudulent means, defrauds the public or any person of property, money, valuable security or service is guilty of an indictable offence and subject to penalties set out in the Code.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/c-46/section-380.html",
+    "country": "canada",
+    "category": "criminal",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Criminal Code — Homicide / Murder Sentencing",
+    "section": "Section 235",
+    "content": "Section 235 sets out sentencing for first and second degree murder: a person who commits murder is guilty of an indictable offence and shall be sentenced to imprisonment for life (the section addresses minimum and life sentencing rules).",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/c-46/section-235.html",
+    "country": "canada",
+    "category": "criminal",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Excise Tax Act (GST/HST) — Input Tax Credit Rules",
+    "section": "Section 169 (Input Tax Credits)",
+    "content": "Subdivision B of Part IX sets out the general rules for input tax credits (ITCs): registrants may claim ITCs for GST/HST paid on acquisitions used in commercial activities subject to conditions, documentation and exclusions specified in the Act and Regulations.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/e-15/section-169.html",
+    "country": "canada",
+    "category": "tax",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Privacy Act — Disclosure and Protection of Personal Information (federal institutions)",
+    "section": "Section 8",
+    "content": "The Privacy Act regulates how federal government institutions collect, use and disclose personal information under their control; section 8 lists permitted disclosures (e.g., where authorized by law, for law enforcement, or with individual consent) and imposes limits on disclosure without consent.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/p-21/section-8.html",
+    "country": "canada",
+    "category": "privacy",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Access to Information Act — Requests for Government Records",
+    "section": "Section 6",
+    "content": "Under section 6 any person may make a written request to a federal government institution for access to records in its control; the request must provide sufficient detail to enable an experienced employee to identify the requested records and the Act limits authorities' ability to refuse on trivial grounds.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/a-1/section-6.html",
+    "country": "canada",
+    "category": "transparency",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canada Labour Code — Employer Duties: Occupational Health & Safety",
+    "section": "Section 124 (general duty) and Section 125 (specific duties)",
+    "content": "Section 124 imposes a general duty on employers to ensure the health and safety at work of every person they employ; section 125 and related provisions list specific employer obligations (training, hazard communication, recordkeeping, first-aid, protective equipment, reporting, etc.).",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/l-2/section-124.html",
+    "country": "canada",
+    "category": "health_and_safety",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Employment Insurance Act — Qualification for Unemployment Benefits",
+    "section": "Section 7 (qualifying for benefits) and Part I provisions",
+    "content": "Part I of the Employment Insurance Act and section 7 set out qualification rules for EI benefits (e.g., interruption of earnings, minimum insurable hours or insurable earnings thresholds, and other eligibility and disentitlement rules); claimants must make formal claims and meet statutory conditions to receive benefits.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/e-5.6/section-7.html",
+    "country": "canada",
+    "category": "social_benefits",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Canadian Human Rights Act — Proscribed Grounds of Discrimination",
+    "section": "Section 3",
+    "content": "Section 3 lists prohibited grounds of discrimination (race, national or ethnic origin, colour, religion, age, sex, sexual orientation, gender identity or expression, marital status, family status, disability, conviction for which a record suspension has been ordered, etc.) and makes discriminatory practices actionable under the Act.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/h-6/section-3.html",
+    "country": "canada",
+    "category": "human_rights",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Competition Bureau / Consumer Protection — Deceptive Marketing Guidance",
+    "section": "Competition Bureau guidance (policy / enforcement guidance)",
+    "content": "The Competition Bureau publishes guidance and enforcement priorities clarifying how federal deceptive-marketing and false-advertising laws are applied (including digital marketing, drip pricing, environmental claims and internet-based advertising); businesses should follow Bureau guidance and the Competition Act to avoid enforcement.",
+    "source_url": "https://competition-bureau.canada.ca/en/deceptive-marketing-practices",
+    "country": "canada",
+    "category": "consumer",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Immigration — Work-Integrated Learning and Co-op Rules (Regulatory framework)",
+    "section": "IRPR / Standards for Work-Integrated Learning Activities Regulations",
+    "content": "Regulations and IRCC policy set out the rules governing co-op/placement work done by study permit holders (including when a work permit is required vs. when work is authorized as part of study); institutions and employers must follow regulatory and IRCC-published criteria.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2020-145/",
+    "country": "canada",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  }
+  ,
+  {
+    "title": "Criminal Code (R.S.C., 1985, c. C-46)",
+    "section": "",
+    "content": "The Criminal Code is the main federal criminal law statute in Canada, defining offences, procedures, and penalties for most criminal matters across the country.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+    "country": "canada",
+    "category": "criminal_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canadian Charter of Rights and Freedoms (Constitution Act, 1982, Part I)",
+    "section": "",
+    "content": "The Canadian Charter of Rights and Freedoms guarantees fundamental freedoms, democratic rights, mobility rights, legal rights, equality rights, and language rights, mainly constraining government action.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/const/page-15.html",
+    "country": "canada",
+    "category": "constitutional_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canada Labour Code (R.S.C., 1985, c. L-2)",
+    "section": "",
+    "content": "The Canada Labour Code sets rules for industrial relations, occupational health and safety, and employment standards for federally regulated sectors such as interprovincial transport, telecom, and banks.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/L-2/",
+    "country": "canada",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Income Tax Act (R.S.C., 1985, c. 1 (5th Supp.))",
+    "section": "",
+    "content": "The Income Tax Act is the main federal statute governing income taxation of individuals, corporations, and other entities, including assessment, collection, and anti-avoidance rules.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/",
+    "country": "canada",
+    "category": "tax_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canadian Human Rights Act (R.S.C., 1985, c. H-6)",
+    "section": "",
+    "content": "The Canadian Human Rights Act prohibits discrimination in federally regulated activities and employment on grounds such as race, sex, disability, and religion, enforced by the Canadian Human Rights Commission and Tribunal.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/h-6/",
+    "country": "canada",
+    "category": "human_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Privacy Act (R.S.C., 1985, c. P-21)",
+    "section": "",
+    "content": "The Privacy Act regulates how federal government institutions collect, use, and disclose personal information and provides individuals with rights of access and correction.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/P-21/",
+    "country": "canada",
+    "category": "privacy_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Personal Information Protection and Electronic Documents Act (PIPEDA) (S.C. 2000, c. 5)",
+    "section": "",
+    "content": "PIPEDA governs how private-sector organizations collect, use, and disclose personal information in the course of commercial activities, and supports electronic commerce and electronic documents.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/",
+    "country": "canada",
+    "category": "privacy_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Youth Criminal Justice Act (S.C. 2002, c. 1)",
+    "section": "",
+    "content": "The Youth Criminal Justice Act governs the criminal justice system for young persons aged 12 to 17, emphasizing rehabilitation, meaningful consequences, and reduced reliance on custody.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/Y-1.5/",
+    "country": "canada",
+    "category": "juvenile_justice",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Divorce Act (R.S.C., 1985, c. 3 (2nd Supp.))",
+    "section": "",
+    "content": "The Divorce Act sets out the law governing divorce in Canada, including grounds for divorce, child custody and support, and spousal support.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/d-3.4/",
+    "country": "canada",
+    "category": "family_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Immigration and Refugee Protection Act (S.C. 2001, c. 27)",
+    "section": "",
+    "content": "IRPA is the main federal statute governing immigration to and removal from Canada, refugee protection, and related enforcement and appeal mechanisms.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/",
+    "country": "canada",
+    "category": "immigration_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canadian Environmental Protection Act, 1999 (S.C. 1999, c. 33)",
+    "section": "",
+    "content": "CEPA 1999 provides a comprehensive framework for preventing pollution and protecting the environment and human health from toxic substances and other pollutants.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/c-15.31/",
+    "country": "canada",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Corrections and Conditional Release Act (S.C. 1992, c. 20)",
+    "section": "",
+    "content": "The CCRA governs the federal correctional system and parole in Canada, including the mandate of the Correctional Service of Canada and the Parole Board of Canada.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-44.6/",
+    "country": "canada",
+    "category": "criminal_justice",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Emergencies Act (R.S.C., 1985, c. 22 (4th Supp.))",
+    "section": "",
+    "content": "The Emergencies Act sets out the legal framework for the federal government to declare and manage national emergencies, subject to parliamentary oversight and rights protections.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/e-4.5/",
+    "country": "canada",
+    "category": "public_order",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Official Languages Act (R.S.C., 1985, c. 31 (4th Supp.))",
+    "section": "",
+    "content": "The Official Languages Act implements the equal status of English and French in federal institutions and guarantees language rights in services, courts, and communications.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/o-3.01/",
+    "country": "canada",
+    "category": "language_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Indian Act (R.S.C., 1985, c. I-5)",
+    "section": "",
+    "content": "The Indian Act governs many aspects of the relationship between the federal government and registered First Nations people and bands, including status, reserves, and band governance.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/i-5/",
+    "country": "canada",
+    "category": "indigenous_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canada Elections Act (S.C. 2000, c. 9)",
+    "section": "",
+    "content": "The Canada Elections Act regulates the conduct of federal elections and referendums, including voter registration, political financing, and election offences.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/E-2.01/",
+    "country": "canada",
+    "category": "election_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Competition Act (R.S.C., 1985, c. C-34)",
+    "section": "",
+    "content": "The Competition Act promotes and maintains fair competition in Canada by prohibiting anticompetitive practices such as price-fixing, abuse of dominance, and deceptive marketing.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/c-34/",
+    "country": "canada",
+    "category": "competition_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Employment Insurance Act (S.C. 1996, c. 23)",
+    "section": "",
+    "content": "The Employment Insurance Act governs temporary income support for unemployed workers, maternity and parental benefits, and certain special benefits, subject to eligibility rules.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/e-5.6/",
+    "country": "canada",
+    "category": "social_security",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Controlled Drugs and Substances Act (S.C. 1996, c. 19)",
+    "section": "",
+    "content": "The Controlled Drugs and Substances Act regulates the possession, production, distribution, and sale of controlled substances and precursors, and creates related criminal offences.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-38.8/",
+    "country": "canada",
+    "category": "drug_control",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Access to Information Act (R.S.C., 1985, c. A-1)",
+    "section": "",
+    "content": "The Access to Information Act gives individuals a right to access records under the control of federal government institutions, subject to limited exemptions, to promote transparency.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/a-1/",
+    "country": "canada",
+    "category": "transparency",
+    "last_updated": "unknown"
+  }
+  ,
+  {
+    "title": "Customs Act (R.S.C., 1985, c. 1 (2nd Supp.))",
+    "section": "",
+    "content": "Regulates the importation and exportation of goods, including duties, tariffs, and enforcement measures at Canadian borders.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-52/",
+    "country": "canada",
+    "category": "trade_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Fisheries Act (R.S.C., 1985, c. F-14)",
+    "section": "",
+    "content": "Provides for the conservation and protection of fish and their habitat in Canadian waters.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/F-14/",
+    "country": "canada",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Bank Act (R.S.C., 1985, c. B-1)",
+    "section": "",
+    "content": "Regulates the establishment, organization, and operations of banks in Canada.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/B-1/",
+    "country": "canada",
+    "category": "financial_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canada Temperance Act (R.S.C., 1985, c. C-29)",
+    "section": "",
+    "content": "Originally allowed local option votes on the prohibition of alcohol, historically important in social alcohol regulation.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-29/",
+    "country": "canada",
+    "category": "social_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Fisheries Act",
+    "section": "",
+    "content": "Canada’s principal statute for fisheries conservation and protection of fish and habitat in Canadian waters.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/F-14/",
+    "country": "canada",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Natural Resources Act",
+    "section": "",
+    "content": "Governs the management and control of natural resources in certain Canadian provinces, in cooperation with federal powers.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/N-1.8/",
+    "country": "canada",
+    "category": "natural_resources",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Bank of Canada Act (R.S.C., 1985, c. B-2)",
+    "section": "",
+    "content": "Establishes the Bank of Canada and sets out its powers, objectives, and responsibilities including monetary policy.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/B-2/",
+    "country": "canada",
+    "category": "financial_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canadian Citizenship Act",
+    "section": "",
+    "content": "Outlines eligibility, acquisition, and loss of Canadian citizenship rights and obligations.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-29/",
+    "country": "canada",
+    "category": "immigration_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "National Housing Act (R.S.C., 1985, c. N-11)",
+    "section": "",
+    "content": "Promotes the construction of houses and the improvement of housing conditions across Canada.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/N-11/",
+    "country": "canada",
+    "category": "social_policy",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Bankruptcy and Insolvency Act (R.S.C., 1985, c. B-3)",
+    "section": "",
+    "content": "Provides the federal legal framework for bankruptcy, proposals, and insolvent debtors in Canada.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/B-3/",
+    "country": "canada",
+    "category": "bankruptcy_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "National Defence Act (R.S.C., 1985, c. N-5)",
+    "section": "",
+    "content": "Governs the organization, administration, and discipline of the Canadian Armed Forces.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/N-5/",
+    "country": "canada",
+    "category": "defence_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Parliament of Canada Act (R.S.C., 1985, c. P-1)",
+    "section": "",
+    "content": "Sets out administrative and procedural matters relating to Parliament and its members.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/P-1/",
+    "country": "canada",
+    "category": "constitutional_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "National Parks Act (R.S.C., 1985, c. N-14)",
+    "section": "",
+    "content": "Provides for the establishment and management of national parks to protect natural heritage.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/N-14/",
+    "country": "canada",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canadian Human Rights Act (R.S.C., 1985, c. H-6)",
+    "section": "",
+    "content": "Prohibits discrimination by federally regulated employers and service providers on various grounds such as race and gender.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/H-6/",
+    "country": "canada",
+    "category": "human_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Age of Majority Act (R.S.C., 1985, c. A-7)",
+    "section": "",
+    "content": "Defines the age of majority for legal capacity in various provinces, subject to certain federal contexts.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/A-7/",
+    "country": "canada",
+    "category": "civil_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Freight and Inland Revenue Tax Act",
+    "section": "",
+    "content": "An early federal statute dealing with customs and taxes historically significant in Canada’s legislative history.",
+    "source_url": "https://laws-lois.justice.gc.ca/",
+    "country": "canada",
+    "category": "tax_history",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Official Development Assistance Act (S.C. 2002, c. 8)",
+    "section": "",
+    "content": "Established Canada’s international assistance objectives, encouraging poverty reduction and sustainable development abroad.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/O-1.01/",
+    "country": "canada",
+    "category": "international_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "International Development Research Centre Act (R.S.C., 1985, c. I-13)",
+    "section": "",
+    "content": "Provides for the operation of the International Development Research Centre to support research in developing countries.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/I-13/",
+    "country": "canada",
+    "category": "international_law",
+    "last_updated": "unknown"
+  }
+  ,
+  {
+    "title": "Access to Information Act",
+    "section": "",
+    "content": "Provides mechanisms for public access to federal government documents, subject to exemptions.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/A-1/",
+    "country": "canada",
+    "category": "transparency",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Aeronautics Act",
+    "section": "",
+    "content": "Governs aviation safety, aircraft operation, air navigation services, and regulation of aerodromes.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/A-2/",
+    "country": "canada",
+    "category": "transport_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Arctic Waters Pollution Prevention Act",
+    "section": "",
+    "content": "Protects Arctic waters from pollution by regulating navigation and industrial activity.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/A-12/",
+    "country": "canada",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Broadcasting Act",
+    "section": "",
+    "content": "Regulates broadcasting and empowers the CRTC to oversee broadcasting policy and licensing.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/B-9.01/",
+    "country": "canada",
+    "category": "telecom_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canadian Bill of Rights",
+    "section": "",
+    "content": "Sets out statutory rights and freedoms applicable to federal laws predating the Charter.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-12/",
+    "country": "canada",
+    "category": "constitutional_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canadian Environmental Assessment Act",
+    "section": "",
+    "content": "Requires federal environmental assessments for designated projects to evaluate impacts.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-15.2/",
+    "country": "canada",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canada National Parks Act",
+    "section": "",
+    "content": "Protects national parks, biodiversity, ecosystems, and ensures ecological integrity.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/N-14/",
+    "country": "canada",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canadian Energy Regulator Act",
+    "section": "",
+    "content": "Creates the CER to regulate energy infrastructure, pipelines, and international power lines.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-15.1/",
+    "country": "canada",
+    "category": "energy_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Copyright Act",
+    "section": "",
+    "content": "Defines copyright protections for creative works and outlines infringement remedies.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-42/",
+    "country": "canada",
+    "category": "intellectual_property",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Canada Cooperatives Act",
+    "section": "",
+    "content": "Regulates the formation, governance, and dissolution of federally incorporated cooperatives.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-1.7/",
+    "country": "canada",
+    "category": "corporate_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Firearms Act",
+    "section": "",
+    "content": "Provides licensing, registration, and safety rules for firearms ownership and usage.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/F-11.6/",
+    "country": "canada",
+    "category": "public_safety",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Food and Drugs Act",
+    "section": "",
+    "content": "Regulates safety, packaging, labeling, and marketing of food, drugs, and cosmetics.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/F-27/",
+    "country": "canada",
+    "category": "health_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Hazardous Materials Information Review Act",
+    "section": "",
+    "content": "Protects confidential business information while ensuring chemical safety disclosures.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/H-2.7/",
+    "country": "canada",
+    "category": "public_safety",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Immigration and Refugee Protection Act",
+    "section": "",
+    "content": "Governs entry into Canada, refugee protection, visas, enforcement, and appeals.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/I-2.5/",
+    "country": "canada",
+    "category": "immigration_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Inquiries Act",
+    "section": "",
+    "content": "Allows establishment of public inquiries into matters of national concern.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/I-11/",
+    "country": "canada",
+    "category": "public_governance",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Investment Canada Act",
+    "section": "",
+    "content": "Regulates foreign investment to ensure net benefit to Canada and national security.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/I-21.8/",
+    "country": "canada",
+    "category": "trade_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "National Defence Act",
+    "section": "",
+    "content": "Establishes Canadian Armed Forces structure, authority, military law, and regulations.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/N-5/",
+    "country": "canada",
+    "category": "defence_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Official Languages Act",
+    "section": "",
+    "content": "Ensures equality of English and French in federal institutions and communications.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/O-3.01/",
+    "country": "canada",
+    "category": "language_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Personal Information Protection and Electronic Documents Act",
+    "section": "",
+    "content": "Governs privacy of personal data held by businesses in commercial activities.",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/",
+    "country": "canada",
+    "category": "privacy_law",
+    "last_updated": "unknown"
+  }
+
+
+
+
+
+
+
+
+
+
+]
+
+ 

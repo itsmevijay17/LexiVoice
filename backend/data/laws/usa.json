@@ -1,0 +1,780 @@
+[
+  {
+    "title": "US Immigration - F-1 Student Visa Employment Rules",
+    "section": "8 CFR 214.2(f)(9)",
+    "content": "F-1 international students in the United States may work on-campus for up to 20 hours per week during the academic term and full-time during official school breaks and vacation periods. On-campus employment includes work at the school location, affiliated commercial establishments, or educationally affiliated off-campus locations. Off-campus employment requires specific authorization through either Curricular Practical Training or Optional Practical Training programs. CPT must be an integral part of the established curriculum and requires school approval. Unauthorized employment can result in termination of student status and deportation.",
+    "source_url": "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors",
+    "country": "usa",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "US Immigration - H-1B Specialty Occupation Work Visa",
+    "section": "INA Section 101(a)(15)(H)",
+    "content": "The H-1B visa program allows US employers to temporarily employ foreign workers in specialty occupations that require theoretical or technical expertise in specialized fields. The position must require a minimum of a bachelor's degree or its equivalent in a specific field of study. The initial H-1B visa is granted for up to three years and can be extended for a maximum total stay of six years. Employers must pay H-1B workers the actual wage paid to other employees with similar experience and qualifications, or the prevailing wage for the occupation in the area of employment, whichever is higher. The annual cap for new H-1B visas is 65,000 with an additional 20,000 for applicants with US master's degrees.",
+    "source_url": "https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations",
+    "country": "usa",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "US Labor Law - Federal Minimum Wage Standards",
+    "section": "Fair Labor Standards Act Section 6",
+    "content": "The federal minimum wage in the United States is $7.25 per hour, a rate that has been in effect since July 24, 2009. However, many states, cities, and counties have enacted their own minimum wage laws with higher rates. When an employee is subject to both federal and state minimum wage laws, the employee is entitled to the higher of the two minimum wages. Tipped employees may be paid a direct cash wage of $2.13 per hour, but if the combination of direct wage and tips does not equal the federal minimum wage, the employer must make up the difference. Employers who violate minimum wage laws may face penalties and must pay back wages.",
+    "source_url": "https://www.dol.gov/general/topic/wages/minimumwage",
+    "country": "usa",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "US Consumer Protection - FTC Truth in Advertising",
+    "section": "FTC Act Section 5",
+    "content": "The Federal Trade Commission Act prohibits unfair or deceptive acts or practices in commerce. Advertising must be truthful and not misleading, and advertisers must have evidence to back up their claims. Businesses are required to honor advertised prices and clearly disclose all material terms and conditions of sale. Consumers have the right to dispute unauthorized or incorrect charges on their credit cards. If a product is defective or not as described, consumers can request refunds or replacements. The FTC has authority to investigate deceptive business practices and can impose significant fines and require corrective advertising.",
+    "source_url": "https://www.ftc.gov/consumer-protection",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "US Labor Law - Overtime Pay Requirements",
+    "section": "Fair Labor Standards Act Section 7",
+    "content": "Under the Fair Labor Standards Act, covered nonexempt employees must receive overtime pay for hours worked over 40 in a workweek at a rate not less than time and one-half their regular rates of pay. There is no limit on the number of hours employees aged 16 and older may work in any workweek. The FLSA does not require overtime pay for work on Saturdays, Sundays, holidays, or regular days of rest, unless overtime hours are worked on such days. Certain employees are exempt from overtime requirements including executive, administrative, professional, computer, and outside sales employees who meet specific criteria.",
+    "source_url": "https://www.dol.gov/general/topic/wages/overtimepay",
+    "country": "usa",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Family and Medical Leave Act (FMLA) – Employee Entitlement",
+    "section": "29 U.S.C. § 2612",
+    "content": "Eligible employees of covered employers may take up to 12 workweeks of unpaid, job-protected leave during any 12-month period for specified family and medical reasons (birth/adoption, serious health condition, caring for an immediate family member, qualifying exigency). Group health insurance coverage must be maintained during FMLA leave under the same terms and conditions as if the employee had continued to work.",
+    "source_url": "https://www.dol.gov/agencies/whd/fmla",
+    "country": "usa",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Americans with Disabilities Act (ADA) – Employment Protections",
+    "section": "42 U.S.C. § 12112",
+    "content": "The ADA prohibits employment discrimination against qualified individuals with disabilities and requires covered employers to provide reasonable accommodations unless doing so would cause undue hardship. The law covers hiring, firing, promotions, job assignments, and other terms and conditions of employment.",
+    "source_url": "https://www.eeoc.gov/publications/ada-your-employment-rights-individual-disability",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Title VII of the Civil Rights Act – Workplace Discrimination",
+    "section": "42 U.S.C. § 2000e-2",
+    "content": "Title VII prohibits employment discrimination on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity) and national origin. Covered employers may not use policies or practices that lead to disparate impact unless job-related and consistent with business necessity.",
+    "source_url": "https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Equal Pay Act – Wage Discrimination by Sex",
+    "section": "29 U.S.C. § 206(d)",
+    "content": "The Equal Pay Act requires that men and women in the same establishment be given equal pay for equal work on jobs requiring substantially equal skill, effort, and responsibility, performed under similar working conditions. Employers may only justify pay differences based on seniority, merit, quantity/quality of production, or a factor other than sex.",
+    "source_url": "https://www.dol.gov/agencies/oasam/regulatory/statutes/equal-pay-act",
+    "country": "usa",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Age Discrimination in Employment Act (ADEA)",
+    "section": "29 U.S.C. §§ 621–634",
+    "content": "The ADEA prohibits employment discrimination against persons 40 years of age or older with respect to hiring, promotions, discharge, compensation, or terms, conditions or privileges of employment. Certain exceptions apply for bona fide occupational qualifications and statutory reductions in force.",
+    "source_url": "https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "OSHA – Employer Duty to Provide Safe Workplace (OSH Act)",
+    "section": "Occupational Safety and Health Act of 1970",
+    "content": "Employers have a general duty under the OSH Act to provide a workplace free from recognized hazards likely to cause death or serious physical harm. OSHA issues mandatory safety standards, conducts inspections, and may levy penalties where violations are found.",
+    "source_url": "https://www.osha.gov/laws-regs/oshact/completeoshact",
+    "country": "usa",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Workers' Compensation – Federal Programs Overview",
+    "section": "Federal Employees' Compensation Act (FECA) / OWCP programs",
+    "content": "Federal workers injured on the job or who develop occupational diseases may be eligible for wage replacement, medical treatment, vocational rehabilitation and other benefits administered by the DOL Office of Workers' Compensation Programs. State workers' compensation programs provide similar benefits for most nonfederal employees under state law.",
+    "source_url": "https://www.dol.gov/general/topic/workcomp",
+    "country": "usa",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Social Security – Retirement, Disability and Survivor Benefits",
+    "section": "Social Security Act (Titles II & XVI)",
+    "content": "Social Security provides retirement, disability, survivor, and Supplemental Security Income benefits based on eligibility criteria, work credits and earnings history. Benefits amounts, eligibility ages, and program rules are administered by the Social Security Administration.",
+    "source_url": "https://www.ssa.gov/benefits",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "HIPAA – Health Information Privacy & Security",
+    "section": "45 CFR Parts 160 and 164",
+    "content": "The Health Insurance Portability and Accountability Act (HIPAA) protects individuals' medical records and other personal health information held by covered entities and business associates. It requires appropriate safeguards to protect privacy and sets limits and conditions on uses and disclosures of protected health information.",
+    "source_url": "https://www.hhs.gov/hipaa/index.html",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Fair Debt Collection Practices Act (FDCPA)",
+    "section": "15 U.S.C. § 1692",
+    "content": "The FDCPA restricts abusive, deceptive, and unfair debt collection practices by third-party debt collectors. Consumers have rights to dispute debts, request verification, and seek damages for violations of the Act.",
+    "source_url": "https://www.consumerfinance.gov/compliance/compliance-resources/debt-collection/",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Fair Credit Reporting Act (FCRA) – Consumer Credit Protections",
+    "section": "15 U.S.C. § 1681 et seq.",
+    "content": "The FCRA regulates collection, dissemination, and use of consumer credit information. Consumers have the right to access their credit file, dispute inaccurate information, and receive notice when adverse actions are taken due to a credit report.",
+    "source_url": "https://www.consumerfinance.gov/rules-policy/regulations/1002/",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Telephone Consumer Protection Act (TCPA)",
+    "section": "47 U.S.C. § 227",
+    "content": "The TCPA restricts telemarketing calls, SMS messages, and use of automated dialing systems and prerecorded voice messages without prior express consent. It also provides consumers rights to opt out and to seek statutory damages for violations.",
+    "source_url": "https://www.fcc.gov/general/telephone-consumer-protection-act-1991",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Federal Trade Commission (FTC) – Truth in Advertising & Consumer Protection",
+    "section": "FTC Act §5",
+    "content": "The FTC enforces consumer protection laws against unfair or deceptive acts or practices in commerce. Advertisements must be truthful and substantiated. The FTC can investigate, obtain injunctions, impose civil penalties, and require corrective advertising.",
+    "source_url": "https://www.ftc.gov/consumer-protection",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Immigration – Employment Authorization Document (EAD)",
+    "section": "INA §274A / USCIS guidance",
+    "content": "Certain categories of noncitizens are eligible for an Employment Authorization Document (EAD) which permits lawful employment in the U.S. Eligible applicants must file Form I-765 with USCIS and receive valid EAD card before engaging in work. Categories include asylum applicants, certain visa holders, and adjustment-of-status applicants.",
+    "source_url": "https://www.uscis.gov/i-765",
+    "country": "usa",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Immigration – Optional Practical Training (OPT) for F-1 Students",
+    "section": "8 CFR 214.2(f) / USCIS guidance",
+    "content": "Optional Practical Training (OPT) allows F-1 students to engage in temporary employment related to their major area of study. Post-completion OPT is typically authorized for up to 12 months, with an additional 24-month STEM extension for eligible STEM degree holders who meet requirements.",
+    "source_url": "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors",
+    "country": "usa",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "H-1B Specialty Occupation – Employer Obligations",
+    "section": "INA §101(a)(15)(H)",
+    "content": "H-1B employers must file an approved Labor Condition Application and pay the required wages (actual or prevailing) to H-1B workers. The initial H-1B admission is up to three years, extendable to six years in most cases; some exceptions allow longer authorized stays.",
+    "source_url": "https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations",
+    "country": "usa",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Overtime Pay – Fair Labor Standards Act (FLSA) Section 7",
+    "section": "29 U.S.C. § 207",
+    "content": "Nonexempt employees covered by the FLSA must receive overtime pay at a rate not less than one and one-half times their regular rate for hours worked over 40 in a workweek. Certain employees are exempt (executive, administrative, professional, outside sales, certain computer employees) when tests for duties and pay are met.",
+    "source_url": "https://www.dol.gov/general/topic/wages/overtimepay",
+    "country": "usa",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Minimum Wage – Federal Floor (FLSA Section 6)",
+    "section": "29 U.S.C. § 206",
+    "content": "The federal minimum wage sets a baseline for wages under the FLSA; many states and localities have higher minimum wages that apply to workers in those jurisdictions. Employers must pay the higher applicable rate when multiple laws apply.",
+    "source_url": "https://www.dol.gov/general/topic/wages/minimumwage",
+    "country": "usa",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Consumer Financial Protection – Debt Collection and Complaints",
+    "section": "CFPB authority and consumer remedies",
+    "content": "The Consumer Financial Protection Bureau (CFPB) supervises financial companies, enforces federal consumer financial laws, and provides consumer complaint services. Consumers can submit complaints about credit reporting, debt collection, mortgages, and other financial products.",
+    "source_url": "https://www.consumerfinance.gov/",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Immigration – Adjustment of Status (Green Card via Employment)",
+    "section": "INA §245",
+    "content": "Noncitizens present in the U.S. may apply for adjustment of status to lawful permanent resident (green card) under certain employment-based categories if eligible and a visa number is available. Adjustment requires filing Form I-485 and satisfying admissibility and eligibility criteria.",
+    "source_url": "https://www.uscis.gov/green-card/green-card-through-job",
+    "country": "usa",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Whistleblower Protections – OSHA & DOL Programs",
+    "section": "Various statutes / OSHA Whistleblower Protection Program",
+    "content": "Federal laws protect employees who report unsafe or unlawful practices. OSHA and other agencies administer whistleblower protections and may investigate retaliation claims, requiring reinstatement and back pay if violations are found.",
+    "source_url": "https://www.whistleblowers.gov/",
+    "country": "usa",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Equal Employment Opportunity Commission (EEOC) – Charging and Remedies",
+    "section": "Procedures for filing discrimination charges",
+    "content": "Individuals who believe they have experienced employment discrimination under federal statutes (Title VII, ADA, ADEA, etc.) may file a charge with the EEOC. The EEOC investigates, mediates, and may sue employers; victims may obtain reinstatement, back pay, damages, and injunctive relief.",
+    "source_url": "https://www.eeoc.gov/how-file-charge-employment-discrimination",
+    "country": "usa",
+    "category": "civil",
+    "last_updated": "2024-01"
+  }
+  ,
+  {
+    "title": "United States Code, Title 18 - Crimes and Criminal Procedure",
+    "section": "",
+    "content": "Title 18 of the U.S. Code is the primary federal criminal law title, defining many federal crimes, general principles of criminal liability, and rules on criminal procedure and penalties.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/18",
+    "country": "united_states",
+    "category": "criminal_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "United States Code, Title 26 - Internal Revenue Code",
+    "section": "",
+    "content": "Title 26, known as the Internal Revenue Code, governs federal taxation, including income tax, corporate tax, employment taxes, and tax administration and enforcement mechanisms.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/26",
+    "country": "united_states",
+    "category": "tax_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Civil Rights Act of 1964",
+    "section": "",
+    "content": "The Civil Rights Act of 1964 prohibits discrimination on the basis of race, color, religion, sex, or national origin in employment, public accommodations, education, and federally funded programs.",
+    "source_url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg241.pdf",
+    "country": "united_states",
+    "category": "civil_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Voting Rights Act of 1965",
+    "section": "",
+    "content": "The Voting Rights Act of 1965 seeks to eliminate racial discrimination in voting by banning literacy tests and authorizing federal oversight of jurisdictions with a history of discriminatory practices.",
+    "source_url": "https://www.justice.gov/crt/history-federal-voting-rights-laws",
+    "country": "united_states",
+    "category": "election_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Fair Labor Standards Act of 1938",
+    "section": "",
+    "content": "The Fair Labor Standards Act establishes a federal minimum wage, overtime pay requirements, child labor restrictions, and record-keeping duties for covered employers in the U.S.",
+    "source_url": "https://www.dol.gov/agencies/whd/flsa",
+    "country": "united_states",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Occupational Safety and Health Act of 1970",
+    "section": "",
+    "content": "The Occupational Safety and Health Act authorizes federal workplace safety standards and enforcement to ensure safe and healthful working conditions for employees.",
+    "source_url": "https://www.osha.gov/laws-regs/oshact/completeoshact",
+    "country": "united_states",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Family and Medical Leave Act of 1993",
+    "section": "",
+    "content": "The Family and Medical Leave Act entitles eligible employees to unpaid, job-protected leave for specified family and medical reasons, such as childbirth, illness, or caregiving.",
+    "source_url": "https://www.dol.gov/agencies/whd/fmla",
+    "country": "united_states",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Americans with Disabilities Act of 1990",
+    "section": "",
+    "content": "The Americans with Disabilities Act prohibits discrimination against individuals with disabilities in employment, public services, public accommodations, and telecommunications.",
+    "source_url": "https://www.ada.gov/",
+    "country": "united_states",
+    "category": "disability_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Age Discrimination in Employment Act of 1967",
+    "section": "",
+    "content": "The Age Discrimination in Employment Act protects employees and job applicants aged 40 and over from age-based discrimination in hiring, firing, compensation, and other employment terms.",
+    "source_url": "https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967",
+    "country": "united_states",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Clean Air Act",
+    "section": "",
+    "content": "The Clean Air Act is the main federal law controlling air pollution, authorizing the EPA to set air quality standards, regulate emissions, and address hazardous air pollutants from stationary and mobile sources.",
+    "source_url": "https://www.epa.gov/laws-regulations/summary-clean-air-act",
+    "country": "united_states",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Clean Water Act",
+    "section": "",
+    "content": "The Clean Water Act regulates discharges of pollutants into U.S. waters and sets quality standards for surface waters, including a permit system for point sources of pollution.",
+    "source_url": "https://www.epa.gov/laws-regulations/summary-clean-water-act",
+    "country": "united_states",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "National Environmental Policy Act of 1969",
+    "section": "",
+    "content": "NEPA requires federal agencies to assess the environmental impacts of major actions through environmental assessments and impact statements, integrating environmental considerations into decision-making.",
+    "source_url": "https://www.epa.gov/laws-regulations/summary-national-environmental-policy-act",
+    "country": "united_states",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Freedom of Information Act, 1966",
+    "section": "",
+    "content": "FOIA gives the public the right to request access to federal agency records, subject to specific exemptions, promoting transparency and accountability in the U.S. government.",
+    "source_url": "https://www.justice.gov/oip/freedom-information-act-5-usc-552",
+    "country": "united_states",
+    "category": "transparency",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Privacy Act of 1974",
+    "section": "",
+    "content": "The Privacy Act regulates how U.S. federal agencies collect, use, and disclose personal information about individuals, and grants rights of access and correction to those individuals.",
+    "source_url": "https://www.justice.gov/opcl/privacy-act-1974",
+    "country": "united_states",
+    "category": "privacy_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Computer Fraud and Abuse Act, 1986",
+    "section": "",
+    "content": "The Computer Fraud and Abuse Act criminalizes unauthorized access to protected computers, including hacking, and covers fraud and damage involving computer systems.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/18/1030",
+    "country": "united_states",
+    "category": "cyber_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Children's Online Privacy Protection Act, 1998",
+    "section": "",
+    "content": "COPPA imposes requirements on online services directed to children under 13, including parental consent, notice, and data protection obligations when collecting personal information.",
+    "source_url": "https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa",
+    "country": "united_states",
+    "category": "privacy_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "USA PATRIOT Act of 2001",
+    "section": "",
+    "content": "The USA PATRIOT Act expanded investigative and surveillance powers for counterterrorism, amending various laws on intelligence gathering, financial monitoring, and immigration.",
+    "source_url": "https://www.congress.gov/bill/107th-congress/house-bill/3162",
+    "country": "united_states",
+    "category": "national_security",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Sarbanes–Oxley Act of 2002",
+    "section": "",
+    "content": "Sarbanes–Oxley sets corporate governance, auditing, and financial reporting standards for public companies, with the goal of preventing accounting fraud and protecting investors.",
+    "source_url": "https://www.govinfo.gov/content/pkg/PLAW-107publ204/pdf/PLAW-107publ204.pdf",
+    "country": "united_states",
+    "category": "corporate_governance",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Dodd–Frank Wall Street Reform and Consumer Protection Act, 2010",
+    "section": "",
+    "content": "The Dodd–Frank Act reforms U.S. financial regulation, creates new oversight bodies, addresses systemic risk, and strengthens consumer financial protections after the 2008 crisis.",
+    "source_url": "https://www.govinfo.gov/app/details/PLAW-111publ203",
+    "country": "united_states",
+    "category": "financial_regulation",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Patient Protection and Affordable Care Act, 2010",
+    "section": "",
+    "content": "The Affordable Care Act expands access to health insurance, regulates health insurance markets, and introduces protections such as coverage for pre-existing conditions.",
+    "source_url": "https://www.hhs.gov/healthcare/about-the-aca/index.html",
+    "country": "united_states",
+    "category": "health_law",
+    "last_updated": "unknown"
+  }
+  ,
+  {
+    "title": "Title 7 – Agriculture",
+    "section": "",
+    "content": "Laws governing agriculture in the U.S., including farm programs, food inspection, and agricultural research.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/7",
+    "country": "united_states",
+    "category": "agriculture_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 9 – Animals and Animal Products",
+    "section": "",
+    "content": "Regulates livestock, animal welfare, and safety of animal products.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/9",
+    "country": "united_states",
+    "category": "food_safety_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 11 – Bankruptcy",
+    "section": "",
+    "content": "Provides the framework for bankruptcy proceedings in federal courts.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/11",
+    "country": "united_states",
+    "category": "bankruptcy_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 15 – Commerce and Trade",
+    "section": "",
+    "content": "Covers federal regulation of commerce, including anti-trust, consumer protection, and trade practices.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/15",
+    "country": "united_states",
+    "category": "commerce_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 16 – Conservation",
+    "section": "",
+    "content": "Includes laws on conservation of natural resources, parks, and wildlife protection.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/16",
+    "country": "united_states",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 20 – Education",
+    "section": "",
+    "content": "Federal laws on education policy, funding, and civil rights in educational programs.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/20",
+    "country": "united_states",
+    "category": "education_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 21 – Food and Drugs",
+    "section": "",
+    "content": "Laws governing food and drug safety enforced by the FDA.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/21",
+    "country": "united_states",
+    "category": "health_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 22 – Foreign Relations and Intercourse",
+    "section": "",
+    "content": "Federal laws on foreign policy, diplomacy, and international agreements.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/22",
+    "country": "united_states",
+    "category": "foreign_policy",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 23 – Highways",
+    "section": "",
+    "content": "Federal legislation governing highway funding and transportation standards.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/23",
+    "country": "united_states",
+    "category": "transport_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 24 – Hospitals and Asylums",
+    "section": "",
+    "content": "Laws regarding federal support and regulation of hospitals and asylums.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/24",
+    "country": "united_states",
+    "category": "health_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 25 – Indians",
+    "section": "",
+    "content": "Federal laws concerning Native American tribes, their governance, land, and services.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/25",
+    "country": "united_states",
+    "category": "indigenous_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 26 – Internal Revenue Code",
+    "section": "",
+    "content": "The federal taxation code including income, estate, gift, and employment taxes.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/26",
+    "country": "united_states",
+    "category": "tax_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 42 – The Public Health and Welfare",
+    "section": "",
+    "content": "Federal laws on public health, welfare programs, and civil rights enforcement.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/42",
+    "country": "united_states",
+    "category": "social_policy",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Magnuson-Moss Warranty-Federal Trade Commission Improvement Act",
+    "section": "",
+    "content": "Promotes consumer protection and enables FTC enforcement of product warranties.",
+    "source_url": "https://www.ftc.gov/enforcement/statutes/magnuson-moss-warranty-federal-trade-commission-improvement-act",
+    "country": "united_states",
+    "category": "consumer_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Federal Trade Commission Act",
+    "section": "",
+    "content": "Establishes the FTC and prohibits unfair methods of competition and unfair or deceptive acts in commerce.",
+    "source_url": "https://www.ftc.gov/enforcement/statutes/federal-trade-commission-act",
+    "country": "united_states",
+    "category": "consumer_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Securities Exchange Act of 1934",
+    "section": "",
+    "content": "Regulates securities markets and governs exchanges, brokers, and reporting requirements.",
+    "source_url": "https://www.sec.gov/about/laws/sea34.pdf",
+    "country": "united_states",
+    "category": "financial_regulation",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Bank Secrecy Act",
+    "section": "",
+    "content": "Requires financial institutions to assist U.S. government agencies in detecting and preventing money laundering.",
+    "source_url": "https://www.fincen.gov/history-bank-secrecy-act",
+    "country": "united_states",
+    "category": "financial_compliance",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Food Safety Modernization Act",
+    "section": "",
+    "content": "Modernizes food safety laws by focusing on preventing contamination rather than responding to outbreaks.",
+    "source_url": "https://www.fda.gov/food/food-safety-modernization-act-fsma",
+    "country": "united_states",
+    "category": "food_safety_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Patient Safety and Quality Improvement Act",
+    "section": "",
+    "content": "Encourages voluntary and confidential reporting of patient safety events to improve healthcare delivery.",
+    "source_url": "https://www.hhs.gov/hipaa/for-professionals/patient-safety-requirements/index.html",
+    "country": "united_states",
+    "category": "health_law",
+    "last_updated": "unknown"
+  }
+  ,
+  {
+    "title": "Title 48 – Territories and Insular Possessions",
+    "section": "",
+    "content": "Covers laws relating to U.S. territories such as Guam, Puerto Rico, and the U.S. Virgin Islands.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/48",
+    "country": "united_states",
+    "category": "public_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 49 – Transportation",
+    "section": "",
+    "content": "Federal transportation law covering aviation, highways, rail, and pipelines, including DOT authority.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/49",
+    "country": "united_states",
+    "category": "transport_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Title 50 – War and National Defense",
+    "section": "",
+    "content": "Contains laws related to national security, military preparedness, espionage, and emergency powers.",
+    "source_url": "https://www.law.cornell.edu/uscode/text/50",
+    "country": "united_states",
+    "category": "national_security",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Americans with Disabilities Amendments Act, 2008",
+    "section": "",
+    "content": "Broadens the definition of disability and expands protections under the Americans with Disabilities Act.",
+    "source_url": "https://www.eeoc.gov/statutes/ada-amendments-act-2008",
+    "country": "united_states",
+    "category": "disability_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Freedom of Access to Clinic Entrances Act",
+    "section": "",
+    "content": "Prohibits threats and obstruction targeting reproductive health clinics.",
+    "source_url": "https://www.justice.gov/crt/freedom-access-clinic-entrances-face-act",
+    "country": "united_states",
+    "category": "civil_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Environmental Protection Act (NEPA)",
+    "section": "",
+    "content": "Requires environmental impact assessments for federal actions significantly affecting the environment.",
+    "source_url": "https://www.epa.gov/nepa",
+    "country": "united_states",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Intelligence Reform and Terrorism Prevention Act, 2004",
+    "section": "",
+    "content": "Reorganizes U.S. intelligence community and establishes the Director of National Intelligence.",
+    "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2845",
+    "country": "united_states",
+    "category": "national_security",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Health Insurance Portability and Accountability Act (HIPAA), 1996",
+    "section": "",
+    "content": "Protects health information privacy and regulates medical insurance transactions.",
+    "source_url": "https://www.hhs.gov/hipaa/index.html",
+    "country": "united_states",
+    "category": "health_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Child Abuse Prevention and Treatment Act (CAPTA)",
+    "section": "",
+    "content": "Provides federal guidance and funding to protect children from abuse and neglect.",
+    "source_url": "https://www.acf.hhs.gov/cb/laws-policies/child-abuse-prevention-and-treatment-act",
+    "country": "united_states",
+    "category": "child_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Truth in Lending Act, 1968",
+    "section": "",
+    "content": "Requires lenders to disclose credit terms clearly to protect consumers in credit transactions.",
+    "source_url": "https://www.consumerfinance.gov/compliance/compliance-resources/other-applicable-requirements/truth-lending-act/",
+    "country": "united_states",
+    "category": "consumer_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Equal Pay Act, 1963",
+    "section": "",
+    "content": "Mandates equal pay for men and women performing substantially equal work.",
+    "source_url": "https://www.eeoc.gov/statutes/equal-pay-act-1963",
+    "country": "united_states",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "National Labor Relations Act, 1935",
+    "section": "",
+    "content": "Protects employees’ rights to unionize and engage in collective bargaining.",
+    "source_url": "https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act",
+    "country": "united_states",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Endangered Species Act",
+    "section": "",
+    "content": "Provides for conservation of threatened and endangered plants and animals and their ecosystems.",
+    "source_url": "https://www.fws.gov/law/endangered-species-act",
+    "country": "united_states",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "No Child Left Behind Act, 2001",
+    "section": "",
+    "content": "Reforms federal education policy focusing on accountability, standardized testing, and school performance.",
+    "source_url": "https://www2.ed.gov/nclb/overview/intro/execsumm.html",
+    "country": "united_states",
+    "category": "education_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Healthy Forests Restoration Act",
+    "section": "",
+    "content": "Promotes forest management and wildfire prevention strategies.",
+    "source_url": "https://www.fs.usda.gov/detail/planningrule/home/?cid=stelprdb5346803",
+    "country": "united_states",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Safe Drinking Water Act",
+    "section": "",
+    "content": "Authorizes EPA to set standards for drinking water quality and oversee state water suppliers.",
+    "source_url": "https://www.epa.gov/sdwa",
+    "country": "united_states",
+    "category": "health_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Toxic Substances Control Act",
+    "section": "",
+    "content": "Regulates chemicals and controls risks from toxic substances.",
+    "source_url": "https://www.epa.gov/laws-regulations/summary-toxic-substances-control-act",
+    "country": "united_states",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Energy Policy Act, 2005",
+    "section": "",
+    "content": "Addresses energy production, efficiency, nuclear energy, and renewable incentives.",
+    "source_url": "https://www.energy.gov/eere/femp/articles/energy-policy-act-2005",
+    "country": "united_states",
+    "category": "energy_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "Marine Mammal Protection Act",
+    "section": "",
+    "content": "Protects marine mammals from hunting, harassment, capture, and killing.",
+    "source_url": "https://www.fisheries.noaa.gov/topic/marine-mammal-protection",
+    "country": "united_states",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  }
+
+
+
+
+
+
+
+
+]
+
+  

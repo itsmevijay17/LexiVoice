@@ -1,0 +1,817 @@
+[
+  {
+    "title": "Indian Immigration Act - Employment Visa Guidelines",
+    "section": "Section 11B",
+    "content": "Foreign nationals holding a valid Employment Visa are permitted to work in India for the sponsoring organization mentioned in the visa application. The visa is typically valid for a period ranging from one to five years, as specified at the time of issuance. If an employee wishes to change employers, they must apply for a new employment visa with the new employer acting as the sponsor. Working without proper authorization or for an organization not listed on the visa is a violation of immigration law and can result in deportation.",
+    "source_url": "https://www.mha.gov.in/immigration-visa",
+    "country": "india",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Indian Immigration Act - Student Visa Work Restrictions",
+    "section": "Section 15A",
+    "content": "Students holding a valid Student Visa are generally not permitted to engage in any form of paid employment, business activities, or professional work during their stay in India. However, internships that are part of the mandatory academic curriculum may be allowed with prior written approval from both the educational institution and the Foreigners Regional Registration Office. The internship must be unpaid or provide only a stipend for basic expenses. Violation of these work restrictions can lead to visa cancellation and potential deportation.",
+    "source_url": "https://www.mha.gov.in/immigration-visa",
+    "country": "india",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Indian Labor Law - Minimum Wage Requirements",
+    "section": "Minimum Wages Act, 1948",
+    "content": "The Minimum Wages Act of 1948 mandates that all employers must pay workers at least the minimum wage as notified by the appropriate government authority. Minimum wages vary by state, industry sector, and skill level of the worker. Employers who fail to pay minimum wages can face imprisonment for up to six months, a fine, or both. Workers have the right to file complaints with labor commissioners if they are paid below minimum wage. The minimum wage is revised periodically to account for inflation and cost of living changes.",
+    "source_url": "https://labour.gov.in/minimum-wages",
+    "country": "india",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Indian Consumer Protection Act - Product Return Rights",
+    "section": "Consumer Rights Section 2(7)",
+    "content": "Under the Consumer Protection Act 2019, consumers have the fundamental right to return defective or misrepresented goods within a reasonable timeframe. If a product is found to be defective, not matching its description, or unfit for its intended purpose, consumers can claim a full refund, product replacement, or free repair. E-commerce platforms and retailers must clearly display their return and refund policies at the point of sale. The consumer can file a complaint with the Consumer Disputes Redressal Commission if the seller refuses a legitimate return request.",
+    "source_url": "https://consumeraffairs.nic.in",
+    "country": "india",
+    "category": "civil",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Indian Labor Law - Working Hours and Overtime",
+    "section": "Factories Act, 1948 - Section 51",
+    "content": "According to the Factories Act, no adult worker shall be required to work in a factory for more than 48 hours per week or more than 9 hours in any single day. Workers are entitled to at least one day of rest per week. Any work beyond these limits must be compensated as overtime at twice the ordinary rate of wages. Workers cannot be forced to work overtime without their consent. Factories that violate these provisions can be penalized with fines and potential closure.",
+    "source_url": "https://labour.gov.in/factories-act",
+    "country": "india",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  
+  {
+    "title": "Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, 1979",
+    "section": "Section 14 – Displacement Allowance",
+    "content": "Every inter-state migrant workman shall be paid displacement allowance by his employer for the journey from the place of recruitment to the establishment and back after employment ends. The employer is liable to pay wages for the period of journey if it exceeds normal working hours and days.",
+    "source_url": "https://clc.gov.in/clc/acts-rules/inter-state-migrant-workmen",
+    "country": "india",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Bonded Labour System (Abolition) Act, 1976",
+    "section": "Section 3 – Abolition of Bonded Labour",
+    "content": "Any agreement or contract by which a person is forced to render bonded labour is null and void; every bonded labourer is freed unconditionally and the State Government shall ensure rehabilitation of such persons.",
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/..." , 
+    "country": "india",
+    "category": "labor",
+    "last_updated": "2023-12"
+  },
+  {
+    "title": "Citizenship (Amendment) Act, 2019",
+    "section": "Section 6B – Citizenship for certain persecuted minorities",
+    "content": "Religious minorities from Afghanistan, Bangladesh and Pakistan who arrived in India before 31 December 2014 may apply for citizenship under a relaxed residency requirement of six years instead of twelve years under the old Act.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/..." , 
+    "country": "india",
+    "category": "immigration",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Payment of Bonus Act, 1965",
+    "section": "Section 10 – Disqualification for default of payment of bonus",
+    "content": "If an employer fails to pay the statutory bonus or the excess bonus specified under the Act, he is disqualified from paying any bonus during the next accounting year under the Act.",
+    "source_url": "https://labour.gov.in/payment-of-bonus-act-1965", 
+    "country": "india",
+    "category": "labor",
+    "last_updated": "2023-11"
+  },
+  {
+    "title": "Equal Remuneration Act, 1976",
+    "section": "Section 4 – Payment of remuneration to men and women workers at equal rate",
+    "content": "No employer shall pay to any worker employed by him remuneration, whether directly or through agency, at a rate less favourable than he pays to another worker of the opposite sex for performing the same or similar work.", 
+    "source_url": "https://indiacode.nic.in/view/act/...",
+    "country": "india",
+    "category": "labor",
+    "last_updated": "2024-01"
+  }
+  ,
+  {
+    "title": "Information Technology Act, 2000 - Compensation for failure to protect data",
+    "section": "Section 43A",
+    "content": "Where a body corporate possessing, dealing or handling any sensitive personal data or information in a computer resource is negligent in implementing and maintaining reasonable security practices and procedures and thereby causes wrongful loss or gain to any person, such body corporate shall be liable to pay damages by way of compensation to the person so affected.",
+    "source_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_45_76_00001_200021_1517807324077&orderno=49",
+    "country": "india",
+    "category": "cyber",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Indian Penal Code, 1860 - Punishment for murder",
+    "section": "Section 302",
+    "content": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine as provided under the Code.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/12850?view_type=browse",
+    "country": "india",
+    "category": "criminal",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Code of Criminal Procedure, 1973 - Information in cognizable cases (FIR)",
+    "section": "Section 154",
+    "content": "Information relating to the commission of a cognizable offence, when given orally to an officer in charge of a police station, shall be reduced to writing by him and read over to the informant; such information, when reduced to writing, shall be signed by the person giving it and the substance thereof shall be entered in the station diary.",
+    "source_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_5_23_000010_197402_1517807320555&orderno=176",
+    "country": "india",
+    "category": "criminal_procedure",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Companies Act, 2013 - Corporate Social Responsibility",
+    "section": "Section 135",
+    "content": "Every company meeting specified thresholds of net worth, turnover or net profit must constitute a Corporate Social Responsibility (CSR) Committee; the Act and rules set out required CSR activities, spend and reporting obligations.",
+    "source_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_22_29_00008_201318_1517807327856&orderno=139",
+    "country": "india",
+    "category": "corporate",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Income-tax Act, 1961 - Deduction for specified investments",
+    "section": "Section 80C",
+    "content": "Section 80C provides specified deductions from gross total income for certain investments and payments (e.g., PPF, life insurance premium, ELSS, principal repayment of home loan) subject to prescribed aggregate limits.",
+    "source_url": "https://incometaxindia.gov.in/pages/acts/income-tax-act.aspx?key=80c",
+    "country": "india",
+    "category": "tax",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Central Goods and Services Tax Act, 2017 - Eligibility to take input tax credit",
+    "section": "Section 16",
+    "content": "A registered person shall be entitled to take credit of input tax charged on inward supplies of goods or services used or intended to be used in the course or furtherance of business, subject to conditions and restrictions specified in the Act and rules.",
+    "source_url": "https://taxinformation.cbic.gov.in/content/html/tax_repository/gst/acts/2017_CGST_act/active/chapter5/section16_v1.00.html",
+    "country": "india",
+    "category": "tax",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Indian Contract Act, 1872 - What agreements are contracts",
+    "section": "Section 10",
+    "content": "Agreements enforceable by law are contracts when they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not expressly declared void.",
+    "source_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_3_20_00035_187209_1523268996428&orderno=10",
+    "country": "india",
+    "category": "civil_contract",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Transfer of Property Act, 1882 - Sale defined",
+    "section": "Section 54",
+    "content": "‘Sale’ is a transfer of ownership in exchange for a price paid or promised or part-paid and part-promised; the section defines how a sale of immovable property is made and the formal requirements.",
+    "source_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_3_20_00042_188204_1523272233671&orderno=55",
+    "country": "india",
+    "category": "property",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Motor Vehicles Act, 1988 - Necessity for driving licence",
+    "section": "Section 3",
+    "content": "No person shall drive a motor vehicle in any public place unless he holds an effective driving licence for the relevant class of vehicle; penalties apply for driving without a licence and the Act sets licensing framework.",
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/1798/1/eng.pdf",
+    "country": "india",
+    "category": "transport",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Environment (Protection) Act, 1986 - Powers of Central Government",
+    "section": "Section 3",
+    "content": "The Central Government has power to take all such measures as it deems necessary or expedient for the purpose of protecting and improving the quality of the environment and preventing, controlling and abating environmental pollution.",
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/6196/1/the_environment_protection_act%2C1986.pdf",
+    "country": "india",
+    "category": "environment",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Right to Information Act, 2005 - Request for information",
+    "section": "Section 6",
+    "content": "Any person who desires to obtain information under the Act shall make a request to the Central/State Public Information Officer of the concerned public authority in writing or electronically, with such fee as may be prescribed; the Act also prohibits requiring reasons for requests.",
+    "source_url": "https://indiankanoon.org/doc/1910806/",
+    "country": "india",
+    "category": "transparency",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Consumer Protection Act, 2019 - Complaints to Authorities",
+    "section": "Section 17",
+    "content": "A complaint concerning violation of consumer rights, unfair trade practices, or defects in goods or services may be filed by a consumer in the appropriate Consumer Disputes Redressal Commission (District/State/National) as per the monetary jurisdiction and procedure laid down.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/15256",
+    "country": "india",
+    "category": "consumer",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Payment of Gratuity Act, 1972 - Eligibility for gratuity",
+    "section": "Section 4",
+    "content": "Gratuity is payable to an employee on termination of employment after continuous service of five years or more (with limited exceptions); the Act prescribes the method of calculation and maximum limits as notified by Government.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1703?view_type=browse",
+    "country": "india",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Payment of Bonus Act, 1965 - Payment of minimum bonus",
+    "section": "Section 10",
+    "content": "Employers covered by the Act must pay a minimum statutory bonus to eligible employees (subject to qualifying conditions and prescribed ceilings); the Act sets eligibility, disqualification and calculation rules.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1548?view_type=browse",
+    "country": "india",
+    "category": "labor",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Sexual Harassment of Women at Workplace (Prevention, Prohibition & Redressal) Act, 2013 - Constitution of Internal Committee",
+    "section": "Section 3",
+    "content": "Employers in establishments with 10 or more employees are required to constitute an Internal Complaints Committee (ICC) to receive and redress complaints of sexual harassment at the workplace; the Act prescribes membership, procedure and timelines.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2104",
+    "country": "india",
+    "category": "labour",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Juvenile Justice (Care and Protection of Children) Act, 2015 - Other offences against children",
+    "section": "Section 94",
+    "content": "This Chapter sets out offences and penalties for various acts against children (including cruelty, abandonment, sale or trafficking of children) and establishes penal provisions intended to protect children’s rights and welfare under the Act.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2148",
+    "country": "india",
+    "category": "child_protection",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Prevention of Corruption Act, 1988 - Offence relating to public servant being bribed",
+    "section": "Section 7",
+    "content": "It is an offence for a public servant to obtain or accept, or attempt to obtain or accept, any gratification other than legal remuneration as a motive or reward for doing or omitting to do any official act.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1558",
+    "country": "india",
+    "category": "anti_corruption",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Real Estate (Regulation and Development) Act, 2016 - Prior registration of projects",
+    "section": "Section 3",
+    "content": "No promoter shall advertise, market, book, sell or offer for sale any plot, apartment or building as part of a real estate project without registering the project with the Real Estate Regulatory Authority (RERA); the Act requires transparency, disclosures and registration.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2158?view_type=browse",
+    "country": "india",
+    "category": "real_estate",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Insolvency and Bankruptcy Code, 2016 - Initiation by financial creditor",
+    "section": "Section 7",
+    "content": "A financial creditor (either by itself or jointly with other financial creditors) may file an application before the Adjudicating Authority to initiate the corporate insolvency resolution process against a corporate debtor when a default has occurred, subject to prescribed documents and conditions.",
+    "source_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_2_11_00055_201631_1517807328273&orderno=7",
+    "country": "india",
+    "category": "insolvency",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Patents Act, 1970 - Rights of patentees",
+    "section": "Section 48",
+    "content": "A granted patent confers upon the patentee the exclusive right to prevent third parties (without the patentee's consent) from making, using, offering for sale, selling or importing the patented product or process in India, subject to conditions and other provisions of the Act.",
+    "source_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_11_61_00002_197039_1517807321764&orderno=50",
+    "country": "india",
+    "category": "intellectual_property",
+    "last_updated": "2024-01"
+  },
+  {
+    "title": "Negotiable Instruments Act, 1881 - Dishonour of cheque",
+    "section": "Section 138",
+    "content": "Where a cheque drawn by a person is returned unpaid due to insufficiency of funds or other reasons, the payee or holder may give a written notice demanding payment; failure to pay within the statutory period may attract criminal liability under Section 138.",
+    "source_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_2_33_00042_00042_1523271998701&orderno=143",
+    "country": "india",
+    "category": "banking_finance",
+    "last_updated": "2024-01"
+  },
+
+  {
+    "title": "The Constitution of India",
+    "section": "",
+    "content": "The Constitution of India is the supreme law of the country. It creates the framework for the Union and State governments, distributes powers, and guarantees fundamental rights, directive principles, and fundamental duties for citizens.",
+    "source_url": "https://legislative.gov.in/constitution-of-india",
+    "country": "india",
+    "category": "constitution",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Bharatiya Nyaya Sanhita, 2023",
+    "section": "",
+    "content": "The Bharatiya Nyaya Sanhita, 2023 replaces the Indian Penal Code and defines offences, general principles of criminal liability, and punishments for crimes across India.",
+    "source_url": "https://www.mha.gov.in/en/notifications/new-criminal-laws",
+    "country": "india",
+    "category": "criminal_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "section": "",
+    "content": "The Bharatiya Nagarik Suraksha Sanhita, 2023 replaces the Code of Criminal Procedure and lays down the procedure for investigation, arrest, trial, bail, and appeals in criminal cases.",
+    "source_url": "https://www.mha.gov.in/en/notifications/new-criminal-laws",
+    "country": "india",
+    "category": "criminal_procedure",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Bharatiya Sakshya Adhiniyam, 2023",
+    "section": "",
+    "content": "The Bharatiya Sakshya Adhiniyam replaces the Indian Evidence Act and specifies what kinds of evidence are admissible in court, including rules for documents, witnesses, and electronic records.",
+    "source_url": "https://www.mha.gov.in/en/notifications/new-criminal-laws",
+    "country": "india",
+    "category": "evidence_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Code of Civil Procedure, 1908",
+    "section": "",
+    "content": "The Code of Civil Procedure sets out the rules and procedures followed by civil courts in India, including how suits are filed, tried, and decreed, and how appeals and execution of decrees work.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2199",
+    "country": "india",
+    "category": "civil_procedure",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Code of Criminal Procedure, 1973",
+    "section": "",
+    "content": "The Code of Criminal Procedure, 1973 governs criminal procedure in India and deals with investigation, arrest, bail, trial, and appeals in criminal cases. Many provisions are relevant for older cases and transitional matters.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/16169",
+    "country": "india",
+    "category": "criminal_procedure",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Indian Penal Code, 1860",
+    "section": "",
+    "content": "The Indian Penal Code historically defined most substantive criminal offences in India, such as murder, theft, cheating, and public order offences. It remains important for interpreting older cases and transitional issues.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "country": "india",
+    "category": "criminal_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Indian Evidence Act, 1872",
+    "section": "",
+    "content": "The Indian Evidence Act set out detailed rules on admissibility and evaluation of evidence in courts, including oral, documentary, and secondary evidence. It is now largely replaced by the Bharatiya Sakshya Adhiniyam but still relevant for legacy matters.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2260",
+    "country": "india",
+    "category": "evidence_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "section": "",
+    "content": "This Act provides for care, protection, rehabilitation, and social reintegration of children in conflict with law and children in need of care and protection, and establishes Juvenile Justice Boards and Child Welfare Committees.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2148",
+    "country": "india",
+    "category": "child_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Protection of Children from Sexual Offences Act, 2012",
+    "section": "",
+    "content": "The POCSO Act creates specific offences relating to sexual assault, harassment, and exploitation of children, sets up child-friendly procedures, and mandates Special Courts for speedy trial of child sexual abuse cases.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2079",
+    "country": "india",
+    "category": "child_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Protection of Women from Domestic Violence Act, 2005",
+    "section": "",
+    "content": "This Act provides civil remedies to women facing physical, emotional, economic, or sexual abuse within domestic relationships, including protection orders, residence rights, and monetary relief.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2010",
+    "country": "india",
+    "category": "women_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "section": "",
+    "content": "This Act mandates prevention and redress of sexual harassment at workplaces, requires employers to set up Internal Complaints Committees, and lays down procedures and duties for safe working environments.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2104",
+    "country": "india",
+    "category": "women_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Right of Children to Free and Compulsory Education Act, 2009",
+    "section": "",
+    "content": "The RTE Act makes education a fundamental right for children aged 6 to 14 and prescribes duties for government and schools regarding free and compulsory elementary education.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2140",
+    "country": "india",
+    "category": "education",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Right to Information Act, 2005",
+    "section": "",
+    "content": "The RTI Act gives citizens a legal right to access information held by public authorities, promotes transparency, and establishes Central and State Information Commissions to decide RTI disputes.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2065",
+    "country": "india",
+    "category": "transparency",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Information Technology Act, 2000",
+    "section": "",
+    "content": "The IT Act provides legal recognition to electronic records and digital signatures, and creates offences relating to hacking, data theft, cyber fraud, and certain online content.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1999",
+    "country": "india",
+    "category": "cyber_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Companies Act, 2013",
+    "section": "",
+    "content": "The Companies Act, 2013 governs incorporation, management, governance, and winding up of companies in India, and includes provisions on corporate social responsibility and investor protection.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2198",
+    "country": "india",
+    "category": "company_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Societies Registration Act, 1860",
+    "section": "",
+    "content": "The Societies Registration Act provides a legal framework for registering charitable, literary, scientific, and other societies and regulates their governance and dissolution.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2306",
+    "country": "india",
+    "category": "civil_society",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Income-tax Act, 1961",
+    "section": "",
+    "content": "The Income-tax Act governs the levy, assessment, and collection of income tax on individuals, companies, and other entities, and contains rules on exemptions, deductions, and penalties.",
+    "source_url": "https://www.incometaxindia.gov.in/pages/acts/income-tax-act.aspx",
+    "country": "india",
+    "category": "tax_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Central Goods and Services Tax Act, 2017",
+    "section": "",
+    "content": "The CGST Act provides the legal framework for the Goods and Services Tax on intra-State supplies of goods and services, including registration, returns, input tax credit, and enforcement provisions.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2155",
+    "country": "india",
+    "category": "tax_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Environment (Protection) Act, 1986",
+    "section": "",
+    "content": "The Environment (Protection) Act is an umbrella law that empowers the central government to take measures for protecting and improving environmental quality and preventing pollution of air, water, and land.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/4316",
+    "country": "india",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  }
+  ,
+  {
+    "title": "The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016",
+    "section": "",
+    "content": "Provides a legal framework for Aadhaar identification and use for delivery of subsidies, benefits and services to residents, and aims to prevent fraud and duplication.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2248",
+    "country": "india",
+    "category": "identity_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Administrative Tribunals Act, 1985",
+    "section": "",
+    "content": "Provides for the establishment of administrative tribunals for adjudication of disputes relating to recruitment and conditions of service of persons appointed to public services.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2266",
+    "country": "india",
+    "category": "tribunal_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Advocates Act, 1961",
+    "section": "",
+    "content": "Regulates the legal profession and establishes the Bar Council of India and State Bar Councils, including standards of professional conduct.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2304",
+    "country": "india",
+    "category": "professional_regulation",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Acquisition of Certain Area at Ayodhya Act, 1993",
+    "section": "",
+    "content": "Provides for acquisition of certain land and properties at Ayodhya in Uttar Pradesh in connection with legal disputes over religious and historical claims.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1362",
+    "country": "india",
+    "category": "land_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017",
+    "section": "",
+    "content": "Defines the jurisdiction and procedures for admiralty matters in India, including claims relating to ships, mortgages, and maritime liens.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2314",
+    "country": "india",
+    "category": "maritime_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Ancient Monuments and Archaeological Sites and Remains Act, 1958",
+    "section": "",
+    "content": "Provides for preservation of ancient and historical monuments, archaeological sites and remains of national importance.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2268",
+    "country": "india",
+    "category": "cultural_heritage",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Bankers' Books Evidence Act, 1891",
+    "section": "",
+    "content": "Admits copies of bankers’ books as evidence in legal proceedings, providing conditions under which they are considered authentic.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2380",
+    "country": "india",
+    "category": "evidence_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Coal Mines (Special Provisions) Act, 2015",
+    "section": "",
+    "content": "Provides for the transfer of captive coal mines to successful bidders and related transitional provisions.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2244",
+    "country": "india",
+    "category": "mining_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Compensatory Afforestation Fund Act, 2016",
+    "section": "",
+    "content": "Provides for constitution of Compensatory Afforestation Fund and utilisation of amounts for wildlife and forest protection.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2245",
+    "country": "india",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Commercial Courts Act, 2015",
+    "section": "",
+    "content": "Provides for establishment of commercial courts to try commercial disputes along with provisions for appeals and execution.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2242",
+    "country": "india",
+    "category": "civil_procedure",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015",
+    "section": "",
+    "content": "Provides for taxation and penalties related to undisclosed foreign income and assets held by residents of India.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2243",
+    "country": "india",
+    "category": "tax_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Rights of Persons with Disabilities Act, 2016",
+    "section": "",
+    "content": "Ensures comprehensive rights and entitlements to persons with disabilities, including accessibility and non-discrimination provisions.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2246",
+    "country": "india",
+    "category": "disability_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Bureau of Indian Standards Act, 2016",
+    "section": "",
+    "content": "Establishes the Bureau of Indian Standards and provides for standardisation, marking and quality certification of goods.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2247",
+    "country": "india",
+    "category": "regulatory_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The National Waterways Act, 2016",
+    "section": "",
+    "content": "Declares certain waterways as National Waterways for purposes of development and regulation of inland water transport.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2249",
+    "country": "india",
+    "category": "transport_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Real Estate (Regulation and Development) Act, 2016",
+    "section": "",
+    "content": "Regulates real estate sector to protect homebuyers’ interests and establish Real Estate Regulatory Authorities.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2250",
+    "country": "india",
+    "category": "consumer_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Muslim Women (Protection of Rights on Divorce) Act, 1986",
+    "section": "",
+    "content": "Protects rights of Muslim women with respect to maintenance on divorce.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2381",
+    "country": "india",
+    "category": "family_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Indecent Representation of Women (Prohibition) Act, 1986",
+    "section": "",
+    "content": "Prohibits indecent representation of women through advertisements, publications and other media.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2382",
+    "country": "india",
+    "category": "women_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+    "section": "",
+    "content": "Provides for prevention of atrocities and hate crimes against Scheduled Castes and Scheduled Tribes and prescribes offences and penalties.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2383",
+    "country": "india",
+    "category": "social_justice",
+    "last_updated": "unknown"
+  }
+  ,
+  {
+    "title": "The Public Premises (Eviction of Unauthorised Occupants) Act, 1971",
+    "section": "",
+    "content": "Provides for speedy eviction of unauthorized occupants from government-owned properties and public premises.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1569",
+    "country": "india",
+    "category": "property_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Dowry Prohibition Act, 1961",
+    "section": "",
+    "content": "Prohibits the giving or receiving of dowry and penalizes demands and harassment related to dowry.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1556",
+    "country": "india",
+    "category": "women_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Protection of Human Rights Act, 1993",
+    "section": "",
+    "content": "Establishes the National Human Rights Commission and defines mechanisms to protect and promote human rights.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1604",
+    "country": "india",
+    "category": "human_rights",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Emigration Act, 1983",
+    "section": "",
+    "content": "Regulates emigration of Indian workers and protects them from exploitation when working abroad.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1624",
+    "country": "india",
+    "category": "immigration_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Unlawful Activities (Prevention) Act, 1967",
+    "section": "",
+    "content": "Provides measures to prevent unlawful activities and terrorism by proscribing organizations and individuals.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1633",
+    "country": "india",
+    "category": "national_security",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Prevention of Money Laundering Act, 2002",
+    "section": "",
+    "content": "Defines money laundering offences, establishes enforcement directorate powers, and sets compliance obligations.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2074",
+    "country": "india",
+    "category": "financial_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Foreign Exchange Management Act, 1999",
+    "section": "",
+    "content": "Regulates foreign exchange markets, external trade payments, and cross-border financial transactions.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1631",
+    "country": "india",
+    "category": "financial_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Prevention of Corruption Act, 1988",
+    "section": "",
+    "content": "Defines corruption offences by public servants and provides for investigation and prosecution.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1634",
+    "country": "india",
+    "category": "anti_corruption",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Equal Remuneration Act, 1976",
+    "section": "",
+    "content": "Ensures equal wages for men and women workers and prohibits workplace discrimination.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1607",
+    "country": "india",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Payment of Wages Act, 1936",
+    "section": "",
+    "content": "Regulates timely payment of wages and prevents unlawful deductions from employee salaries.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1533",
+    "country": "india",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Employees' Provident Funds and Miscellaneous Provisions Act, 1952",
+    "section": "",
+    "content": "Establishes mandatory provident fund, pension, and insurance schemes for employees.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1635",
+    "country": "india",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Apprentices Act, 1961",
+    "section": "",
+    "content": "Regulates training of apprentices in industry and promotes skill development.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1613",
+    "country": "india",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Maternity Benefit Act, 1961",
+    "section": "",
+    "content": "Provides maternity leave, benefits, and job protection to female employees during pregnancy and childbirth.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1560",
+    "country": "india",
+    "category": "women_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Public Liability Insurance Act, 1991",
+    "section": "",
+    "content": "Requires industries handling hazardous substances to provide immediate relief to victims of accidents.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1555",
+    "country": "india",
+    "category": "environmental_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Payment of Bonus Act, 1965",
+    "section": "",
+    "content": "Mandates statutory bonus payments to employees based on productivity and profitability.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1573",
+    "country": "india",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Payment of Gratuity Act, 1972",
+    "section": "",
+    "content": "Provides for gratuity payments to employees after long-term service, retirement, or resignation.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1563",
+    "country": "india",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Factories Act, 1948",
+    "section": "",
+    "content": "Regulates labour welfare, safety, working conditions, and health standards in factories.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1548",
+    "country": "india",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Industrial Disputes Act, 1947",
+    "section": "",
+    "content": "Provides mechanisms for investigation and settlement of industrial disputes.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1539",
+    "country": "india",
+    "category": "labour_law",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Essential Commodities Act, 1955",
+    "section": "",
+    "content": "Gives government power to regulate production, supply, and distribution of essential commodities.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1557",
+    "country": "india",
+    "category": "consumer_protection",
+    "last_updated": "unknown"
+  },
+  {
+    "title": "The Cinematograph Act, 1952",
+    "section": "",
+    "content": "Provides rules for film certification, censorship, and regulation of cinema exhibition.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2345",
+    "country": "india",
+    "category": "media_law",
+    "last_updated": "unknown"
+  }
+
+
+
+
+
+
+
+
+
+]

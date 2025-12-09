@@ -1,0 +1,47 @@
+{
+  "india": {
+    "total_chunks": 14,
+    "total_documents": 10,
+    "avg_chunk_length": 270.14285714285717,
+    "min_chunk_length": 93,
+    "max_chunk_length": 471,
+    "chunks_by_country": {
+      "india": 14
+    },
+    "chunks_by_category": {
+      "immigration": 5,
+      "labor": 7,
+      "civil": 2
+    }
+  },
+  "canada": {
+    "total_chunks": 15,
+    "total_documents": 10,
+    "avg_chunk_length": 313.26666666666665,
+    "min_chunk_length": 112,
+    "max_chunk_length": 499,
+    "chunks_by_country": {
+      "canada": 15
+    },
+    "chunks_by_category": {
+      "immigration": 5,
+      "labor": 8,
+      "civil": 2
+    }
+  },
+  "usa": {
+    "total_chunks": 32,
+    "total_documents": 27,
+    "avg_chunk_length": 301.625,
+    "min_chunk_length": 172,
+    "max_chunk_length": 472,
+    "chunks_by_country": {
+      "usa": 32
+    },
+    "chunks_by_category": {
+      "immigration": 8,
+      "labor": 11,
+      "civil": 13
+    }
+  }
+}

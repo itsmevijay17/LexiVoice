@@ -1,0 +1,20 @@
+# Ignore models
+backend/models/
+
+# Ignore audio outputs
+backend/data/audio/
+
+# Ignore FAISS indexes (if you generate them)
+backend/data/faiss_indexes/
+
+# Ignore test output files
+scripts/e2e_outputs_client/
+
+# Ignore all audio formats
+*.mp3
+*.wav
+
+# Ignore large model binaries
+*.onnx
+*.xml
+*.bin
