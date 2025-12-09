@@ -213,6 +213,7 @@ python backend/scripts/test_llm.py
 
 ### Near Term
 
+* Add More Countries legal docs
 * JWT authentication
 * More countries
 * Improved LLM consistency
